@@ -1,0 +1,6 @@
+{
+  "name": "Programming Practices in C++",
+  "tagline": "C++ 5th Sem Assignments",
+  "body": "#Programming Practices Using C++ Lab\r\n##IT-594F, 2016\r\n\r\n###By Aurghyadip Kundu\r\n\r\n###Contents\r\n\r\n#####Assignment 1\r\nBasic C++ Syntaxes and Function calls.\r\n\r\n#####Assignment 2\r\nDynamic Memory Allocation and Function overloading.\r\n\r\n#####Assignment 3\r\nConstructors and Copy Constructors\r\n\r\n#####Assignment 4\r\nThe concept of Inheritance &polymorphism. Virtual Base Classes in C++ and Virtual Functions.\r\n\r\n#####Assignment 5\r\nConcept of Operator Overloading in C++.\r\n\r\n#####Assignment 6 & Assignment 7\r\nException handling in C++.\r\n\r\n#####Assignment 8\r\nTemplate functions.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
