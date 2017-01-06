@@ -39,7 +39,6 @@ int main()
    cout << "First Distance : " << D1 << endl;
    cout << "Second Distance :" << D2 << endl;
    cout << "Third Distance :" << D3 << endl;
-
-
+   
    return 0;
 }
